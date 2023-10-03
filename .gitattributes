@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Output/* linguist-vendored
+Doxyfile linguist-vendored
+
